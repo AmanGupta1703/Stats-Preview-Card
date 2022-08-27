@@ -176,6 +176,7 @@ h2 {
         align-items: center;
         margin-top: 2rem;
         margin-bottom: 1rem;
+        gap: 2rem;
     }
 
 }
