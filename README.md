@@ -148,3 +148,5 @@ To see how you can add code snippets, see below:
 
 - Website - [Stats Preview Card](https://amangupta1703.github.io/Stats-Preview-Card/)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
+
+---
