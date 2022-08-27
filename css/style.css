@@ -185,3 +185,9 @@ h2 {
     }
 
 }
+
+@media (max-width: 417px) {
+    .mobile-container {
+        width: 80%;
+    }
+}
